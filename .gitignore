@@ -1,0 +1,6 @@
+scripts/.env
+scripts/.cache.txt
+
+com.mrskiro.on-air.plist
+log.output.log
+log.err.log
